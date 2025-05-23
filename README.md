@@ -1,16 +1,13 @@
-## Hi there 👋
+# olá eu sou Vinicius Olveira 🏴
 
-<!--
-**ViniOliveira30/ViniOliveira30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-Estudante do 1º ano B do Ensino Médio
+-Colegio Professores Edvaldo e Maria Jante Carneiro
+-Turvo - PR
 
-Here are some ideas to get you started:
+## sobre mim 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Aprendendo HTML, CSS e javaScript
+-Obtivo: me tornar agricultor ou caminhoneiro
+-Hobbies: Musicas e jogos 
+
+![](https://i.pinimg.com/originals/be/53/fc/be53fc5350400539c44b3bc7c2552fe9.gif)
